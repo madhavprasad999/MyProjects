@@ -1,0 +1,32 @@
+[
+{
+    "unitsAvailable": 80,
+    "price": 0.2,
+    "name": "Pencil",
+    "soldUnits": 20
+},
+{
+    "unitsAvailable": 450,
+    "price": 0.8,
+    "name": "Pen",
+    "soldUnits": 50
+},
+{
+    "unitsAvailable": 1000,
+    "price": 1,
+    "name": "WaterBottle",
+    "soldUnits": 0
+},
+{
+    "unitsAvailable": 20,
+    "price": 10.5,
+    "name": "Table",
+    "soldUnits": 0
+},
+{
+    "unitsAvailable": 50,
+    "price": 15,
+    "name": "Chair",
+    "soldUnits": 0
+}
+]
