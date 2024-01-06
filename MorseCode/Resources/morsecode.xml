@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<morse source="https://en.wikipedia.org/wiki/Morse_code">
+	<symbol name="A">
+		<code>.-</code>
+		<position>4</position>
+	</symbol>
+	<symbol name="B">
+		<code>-...</code>
+		<position>23</position>
+	</symbol>
+	<symbol name="C">
+		<code>-.-.</code>
+		<position>25</position>
+	</symbol>
+	<symbol name="D">
+		<code>-..</code>
+		<position>11</position>
+	</symbol>
+	<symbol name="E">
+		<code>.</code>
+		<position>1</position>
+	</symbol>
+	<symbol name="F">
+		<code>..-.</code>
+		<position>17</position>
+	</symbol>
+	<symbol name="G">
+		<code>--.</code>
+		<position>13</position>
+	</symbol>
+	<symbol name="H">
+		<code>....</code>
+		<position>15</position>
+	</symbol>
+	<symbol name="I">
+		<code>..</code>
+		<position>3</position>
+	</symbol>
+	<symbol name="J">
+		<code>.---</code>
+		<position>22</position>
+	</symbol>
+	<symbol name="K">
+		<code>-.-</code>
+		<position>12</position>
+	</symbol>
+	<symbol name="L">
+		<code>.-..</code>
+		<position>19</position>
+	</symbol>
+	<symbol name="M">
+		<code>--</code>
+		<position>6</position>
+	</symbol>
+	<symbol name="N">
+		<code>-.</code>
+		<position>5</position>
+	</symbol>
+	<symbol name="O">
+		<code>---</code>
+		<position>14</position>
+	</symbol>
+	<symbol name="P">
+		<code>.--.</code>
+		<position>21</position>
+	</symbol>
+	<symbol name="Q">
+		<code>--.-</code>
+		<position>28</position>
+	</symbol>
+	<symbol name="R">
+		<code>.-.</code>
+		<position>9</position>
+	</symbol>
+	<symbol name="S">
+		<code>...</code>
+		<position>7</position>
+	</symbol>
+	<symbol name="T">
+		<code>-</code>
+		<position>2</position>
+	</symbol>
+	<symbol name="U">
+		<code>..-</code>
+		<position>8</position>
+	</symbol>
+	<symbol name="V">
+		<code>...-</code>
+		<position>16</position>
+	</symbol>
+	<symbol name="W">
+		<code>.--</code>
+		<position>10</position>
+	</symbol>
+	<symbol name="X">
+		<code>-..-</code>
+		<position>24</position>
+	</symbol>
+	<symbol name="Y">
+		<code>-.--</code>
+		<position>26</position>
+	</symbol>
+	<symbol name="Z">
+		<code>--..</code>
+		<position>27</position>
+	</symbol>
+	<symbol name="1">
+		<code>.----</code>
+		<position>46</position>
+	</symbol>
+	<symbol name="2">
+		<code>..---</code>
+		<position>38</position>
+	</symbol>
+	<symbol name="3">
+		<code>...--</code>
+		<position>34</position>
+	</symbol>
+	<symbol name="4">
+		<code>....-</code>
+		<position>32</position>
+	</symbol>
+	<symbol name="5">
+		<code>.....</code>
+		<position>31</position>
+	</symbol>
+	<symbol name="6">
+		<code>-....</code>
+		<position>47</position>
+	</symbol>
+	<symbol name="7">
+		<code>--...</code>
+		<position>55</position>
+	</symbol>
+	<symbol name="8">
+		<code>---..</code>
+		<position>59</position>
+	</symbol>
+	<symbol name="9">
+		<code>----.</code>
+		<position>61</position>
+	</symbol>
+	<symbol name="0">
+		<code>-----</code>
+		<position>62</position>
+	</symbol>
+</morse>
